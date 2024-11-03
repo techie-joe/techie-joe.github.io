@@ -1,4 +1,4 @@
-Welcome to Techie Joe's GitHub Pages.
+Welcome to Techie Joe's GitHub Pages
 ---
 This is a static site hosted directly from a GitHub repository.
 
