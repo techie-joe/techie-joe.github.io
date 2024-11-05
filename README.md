@@ -1,4 +1,4 @@
-Welcome to Techie Joe's website
+Welcome to Techie Joe's Website
 ---
 This is a static site hosted on GitHub showcasing my work and interests.
 
