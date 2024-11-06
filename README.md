@@ -1,4 +1,4 @@
-Welcome to Techie Joe's Website
+<h1 id="_hero-title">Welcome to Techie Joe's Website</h1>
 ---
 
 This is a static site hosted on GitHub showcasing my work and interests.
