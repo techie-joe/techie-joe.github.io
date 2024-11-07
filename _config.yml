@@ -1,3 +1,5 @@
-remote_theme: techie-joe/sites
 title: Techie Joe's Website
 description: A site hosted on GitHub showcasing my work and interests.
+
+remote_theme: techie-joe/sites
+remote_theme_build_revision: 4ac069273837fa20bd84b32751cf56748bcbaebb
