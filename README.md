@@ -4,7 +4,7 @@ This is a static site hosted on GitHub showcasing my work and interests.
 
 ---
 
-| [My Code Library](//techie-joe.github.io/library/) |
+| [My Code Library](//techie-joe.github.io/library/) | [Mallet](//techie-joe.github.io/mallet/) |
 
 ---
 
