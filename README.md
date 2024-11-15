@@ -4,6 +4,10 @@
 
 ---
 
+**Hello World** — For most, "Hello World" is just a phrase—simple, unassuming, and perhaps mundane. But for a web developer, these two words symbolize a rite of passage. The moment they appear on a screen, it’s as though a portal to infinite possibilities has swung open, welcoming the creator into a world where ideas come alive in code. [Read more ..](hello-world)
+
+**Welcome to my world**, click on these links to go through my work. Thanks for coming 🤠.
+
 | [My Code Library][library] | [Mallet][mallet] | [Sites][sites] | [Dzikr][dzikr] |  
 | [Tidloo.com][tidloo] |
 
