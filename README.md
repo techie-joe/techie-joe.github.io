@@ -25,6 +25,6 @@
 [library]: //techie-joe.github.io/library/ "Techie Joe's Library"
 [mallet]:  //techie-joe.github.io/mallet/ "Techie Joe's Mallet"
 [sites]:   //techie-joe.github.io/sites/ "Techie Joe's Sites"
-[dzikr]:   //techie-joe.github.io/dzikr/ "Techie Joe's Dzikr Wordpress Plugin"
+[dzikr]:   //github.com/techie-joe/dzikr/ "Techie Joe's Dzikr Wordpress Plugin"
 
 [tidloo]: //tidloo.com "Visit Tidloo.com"
