@@ -18,11 +18,11 @@
 
 ---
 
-| [My Website][website] | [My Github Profile][profile] | [Wiki][wiki] | [Discussions][discussions] | [Sponsor][sponsor] |
+[My Website][website] | [My Github Profile][profile] | [Wiki][wiki] | [Discussions][discussions] | [Sponsor][sponsor]
 
 [website]: //techie-joe.github.io "Techie Joe's Website"
 [profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
 [wiki]:    //github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
-[discussions]: //github.com/techie-joe/techie-joe/discussions "💬 Techie Joe's Discussions"
+[discussions]: //github.com/techie-joe/techie-joe/discussions "Techie Joe's Discussions"
 [gists]:   //gist.github.com/techie-joe "Techie Joe's Gists"
 [sponsor]: //github.com/sponsors/techie-joe "☕️ Buy me a coffee .."
