@@ -4,7 +4,7 @@
 
 ---
 
-**Welcome to my world**, click on these links to go through my work. Thanks for coming 🤠.
+🤠 **Welcome to my world**, click on these links to go through my work.  
 
 | [My Code Library][library] | [Ace][ace] | [Mallet][mallet] | [Sites][sites] | [Dzikr][dzikr] |  
 | [Tidloo.com][tidloo] |
