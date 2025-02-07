@@ -18,7 +18,7 @@
 
 ---
 
-[My Website][website] - [My Github Profile][profile] - [Wiki][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
+[My Website][website] - [My Github Profile][profile] - [My Wiki][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
 
 [website]: //techie-joe.github.io "Techie Joe's Website"
 [profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
