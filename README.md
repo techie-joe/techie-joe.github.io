@@ -16,11 +16,11 @@
 [dzikr]:   //github.com/techie-joe/dzikr/ "Techie Joe's Dzikr Wordpress Plugin"
 [tidloo]: //tidloo.com "Visit Tidloo.com"
 
-**Hello World** — For most, "Hello World" is just a phrase—simple, unassuming, and perhaps mundane. But for a web developer, these two words symbolize a rite of passage. The moment they appear on a screen, it’s as though a portal to infinite possibilities has swung open, welcoming the creator into a world where ideas come alive in code. [Read more ..](hello-world)
+**Hello World** — For most, "Hello World" is just a phrase—simple, unassuming, and perhaps mundane. But for many developer, these two words symbolize a rite of passage. The moment they appear on a screen, it’s as though a portal to infinite possibilities has swung open, welcoming the creator into a world where ideas come alive in code. [Read more ..](hello-world)
 
 ---
 
-| [techie-joe.github.io][website] | [My Github Profile][profile] | [Wiki][wiki] | [Discussions][discussions] | [Sponsor][sponsor] |
+| [My Website][website] | [My Github Profile][profile] | [Wiki][wiki] | [Discussions][discussions] | [Sponsor][sponsor] |
 
 [website]: //techie-joe.github.io "Techie Joe's Website"
 [profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
