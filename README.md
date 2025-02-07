@@ -4,8 +4,8 @@
 
 ---
 
-| [My Code Library][library] | [Ace][ace] | [Mallet][mallet] | [Sites][sites] | [Dzikr][dzikr] |  
-| [Tidloo.com][tidloo] |
+| [My Code Library][library] | [Ace][ace] - [Mallet][mallet] - [Sites][sites] - [Dzikr][dzikr] |  
+| [Tidloo.com][tidloo] | |
 
 [library]: //techie-joe.github.io/library/ "Techie Joe's Library"
 [ace]: //techie-joe.github.io/ace/ "Web Application Template"
@@ -18,7 +18,7 @@
 
 ---
 
-[My Website][website] | [My Github Profile][profile] | [Wiki][wiki] | [Discussions][discussions] | [Sponsor][sponsor]
+[My Website][website] - [My Github Profile][profile] - [Wiki][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
 
 [website]: //techie-joe.github.io "Techie Joe's Website"
 [profile]: //github.com/techie-joe "Techie Joe's GitHub Profile"
