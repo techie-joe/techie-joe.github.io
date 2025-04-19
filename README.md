@@ -1,6 +1,6 @@
 <h1 id="_hero-title">Techie Joe's Website</h1>
 
-👔 This site is hosted on GitHub to showcase my recent work and interests. Click on these links to go through my work.  
+👔 This site is hosted on GitHub to showcase my recent work and interests.
 
 ---
 
