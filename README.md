@@ -1,7 +1,5 @@
 <h1 id="_hero-title">👔 Techie Joe's Website</h1>
 
-&mdash; Where I share my recent work and interests.
-
 ---
 
 | [My Code Library][library] | [Ace][ace] - [Mallet][mallet] - [Sites][sites] - [Dzikr][dzikr] |  
