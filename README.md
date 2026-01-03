@@ -24,11 +24,11 @@ A digital workspace of a full-stack developer.
 
 ---
 
-[My Website][website] - [My Github Profile][profile] - [My Wiki][wiki] - [Discussions][discussions] - [Sponsor Me][sponsor]
+**Techie Joe's** - [Website][website] - [Profile][profile] - [Wiki][wiki] - [Gists][gists] - [Discussions][discuss] - [Sponsorship][sponsor]
 
-[website]: https://techie-joe.github.io "Techie Joe's Website"
-[profile]: https://github.com/techie-joe "Techie Joe's GitHub Profile"
-[wiki]:    https://github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
-[discussions]: https://github.com/techie-joe/techie-joe/discussions "Techie Joe's Discussions"
-[gists]:   https://gist.github.com/techie-joe "Techie Joe's Gists"
-[sponsor]: https://github.com/sponsors/techie-joe "☕️ Buy me a coffee .."
+[website]:     https://techie-joe.github.io "Techie Joe's Website"
+[profile]:     https://github.com/techie-joe "Techie Joe's GitHub Profile"
+[wiki]:        https://github.com/techie-joe/techie-joe/wiki "Techie Joe's Wiki"
+[gists]:       https://gist.github.com/techie-joe "Techie Joe's Gists"
+[discuss]: https://github.com/techie-joe/techie-joe/discussions "Techie Joe's Discussions"
+[sponsor]:     https://github.com/sponsors/techie-joe "Sponsor my work - ☕️ Buy me a coffee .."
