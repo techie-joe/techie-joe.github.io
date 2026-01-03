@@ -20,7 +20,7 @@ A digital workspace of a full-stack developer.
 [sites]:   https://techie-joe.github.io/sites "Techie Joe's Sites is a Jekyll theme for GitHub Pages."
 [dzikr]:   https://github.com/techie-joe/dzikr "Techie Joe's Dzikr Wordpress Plugin"
 
-**Hello World** — _The journey into the Digital Frontier_ — For most people, "Hello World" is just a phrase that's totally basic, maybe even a little cliche. But if you're actually building things, those two tokens are the real starting point. The second they render correctly on my screen, the portal swings wide open. That's the moment I can confidently confirm that the machine is listening. [Read more ..](https://techie-joe.github.io/hello-world)
+**Hello World** — _The journey into the Digital Frontier_ — For most people, **"Hello World"** is just a phrase that's totally basic, maybe even a little cliche. But if you're actually building things, those two tokens are the real starting point. The second they render correctly on my screen, the portal swings wide open. That's the moment I can confidently confirm that the machine is listening. [Read more ..](https://techie-joe.github.io/hello-world)
 
 ---
 
