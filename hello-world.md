@@ -1,7 +1,9 @@
 # Hello World
-> A Web Developer’s Journey into the Digital Frontier
+> The journey into the Digital Frontier
 
 For most people, **"Hello World"** is just a phrase that's totally basic, maybe even a little cliche. But if you're actually building things, those two tokens are the real starting point. The second they render correctly on my screen, the portal swings wide open. That's the moment I can confidently confirm that the machine is listening.
+
+---
 
 That first **"Hello World"** isn't just a code, it's the successful initial deployment of an idea. The phrase is way more than just a literal string. It is the initialization of a new potential. It's the triumph to the hours spent on setting-up the environment variables right, wrestling with the linter, and staring down a blank terminal, demanding it to take shape.
 
