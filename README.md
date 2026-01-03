@@ -7,8 +7,7 @@ A digital workspace of a full-stack developer.
 **Welcome to my world**, have a look around! 😊
 
 [Techie Joe's Code Library][library]  
-[Ace][ace] - [Nova][nova] - [Dove][dove]  
-[ThemeJs][themejs] - [Mallet][mallet]  
+[Ace][ace] - [Nova][nova] - [Dove][dove] - [Mallet][mallet]  
 [Dzikr][dzikr]
 
 [library]: https://techie-joe.github.io/library "Techie Joe's Code Library - A treasure trove for curious coders and wondering enthusiast."
