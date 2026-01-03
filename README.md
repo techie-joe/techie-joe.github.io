@@ -1,4 +1,6 @@
-<h1 id="_hero-title">👔 Techie Joe's Website</h1>
+# 👔 Techie Joe's Website
+
+A digital workspace of a full-stack developer.
 
 ---
 
