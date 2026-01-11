@@ -2,9 +2,7 @@
 
 ## A software development workspace.
 
----
-
-**Welcome to my world**, have a look around! 😊
+**Welcome to my lab**, have a look around! 😊
 
 [Techie Joe's Code Library][library]  
 [Ace][ace] - [Nova][nova] - [Dove][dove] - [Mallet][mallet]  
