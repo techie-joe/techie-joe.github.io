@@ -1,6 +1,6 @@
-# 👔 Techie Joe's Website
+# Techie Joe's Website
 
-## A software development workspace.
+## 🖥️ A software development workspace.
 
 **Welcome to my lab**, have a look around! 😊
 
