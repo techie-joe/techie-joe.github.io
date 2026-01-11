@@ -1,6 +1,6 @@
 # 👔 Techie Joe's Website
 
-A digital workspace of a full-stack developer.
+## A software development workspace.
 
 ---
 
