@@ -20,7 +20,7 @@
 
 ---
 
-**Techie Joe's** - [Website][website] - [Profile][profile] - [Wiki][wiki] - [Gists][gists] - [Discussions][discuss] - [Sponsorship][sponsor]
+**Techie Joe's** - [Website][website] - [Profile][profile] - [Wiki][wiki] - [Discussions][discuss] - [Sponsorship][sponsor]
 
 [website]: https://techie-joe.github.io "Techie Joe's Website"
 [profile]: https://github.com/techie-joe "Techie Joe's GitHub Profile"
