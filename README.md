@@ -5,7 +5,8 @@
 **Welcome to my lab**, have a look around! 😊
 
 [Techie Joe's Code Library][library]  
-[Ace][ace] - [Nova][nova] - [Dove][dove] - [Mallet][mallet]  
+[Ace][ace] - [Nova][nova]  
+[Dove][dove] - [Mallet][mallet]  
 
 [library]: https://techie-joe.github.io/library "Techie Joe's Code Library - A treasure trove for curious coders and wondering enthusiast."
 [ace]:     https://techie-joe.github.io/ace "Ace Builder - A power-tool for building websites and web applications."
