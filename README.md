@@ -1,8 +1,6 @@
 # Techie Joe's Website
 
-## 🖥️ A software development workspace.
-
-**Welcome to my lab**, have a look around! 😊
+🖥️ Part laboratory, part playground. Welcome to my workspace!
 
 [Techie Joe's Code Library][library]  
 [Ace][ace] - [Nova][nova]  
