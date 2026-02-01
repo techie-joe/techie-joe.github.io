@@ -1,6 +1,6 @@
 # Techie Joe's Website
 
-🖥️ Part laboratory, part playground. Welcome to my workspace!
+🖥️ Welcome to my workspace!
 
 [Techie Joe's Code Library][library]  
 [Ace][ace] - [Nova][nova]  
