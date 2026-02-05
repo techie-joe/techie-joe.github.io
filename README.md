@@ -1,6 +1,6 @@
 # Techie Joe's Website
 
-🖥️ Welcome to my workspace!
+🖥️ Welcome to my personal workspace!
 
 [Techie Joe's Code Library][library]  
 [Ace][ace] - [Nova][nova]  
